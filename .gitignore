@@ -1,0 +1,1 @@
+node_modules/\n*.log\n.env\n.DS_Store\ndist/\nbuild/\n__pycache__/\n*.pyc\nvenv/\n.vscode/\n.idea/
